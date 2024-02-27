@@ -1,5 +1,5 @@
 {
-    "name": "extra_space_keypad",
+    "name": "extra_space_keypad_v1",
     "productId": "0x0001",
     "vendorId": "0x20BF",
     "matrix": {
